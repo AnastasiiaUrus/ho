@@ -4,3 +4,4 @@
 # New section
 # Feature X Documentation
 # Hotfix branch
+# Critical fix
