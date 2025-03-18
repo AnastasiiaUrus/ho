@@ -5,3 +5,4 @@
 # Feature X Documentation
 # Hotfix branch
 # Critical fix
+# Another fix
